@@ -1,2 +1,2 @@
-# Project-42-B
-Rain man project without error as it is solved.
+# PROC41-Template
+Raining animation.
